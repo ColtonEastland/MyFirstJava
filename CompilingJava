@@ -1,0 +1,10 @@
+Make sure that a file shares its name with its primary class.
+Here, MyFirstJava.java has a class "public MyFirstJava".
+
+Next, navigate via terminal to the same folder the java files are in, and type "javac <filename.java>" to compile it
+
+finally, type "java <filename>" to run that java file.
+
+For example, in this folder:
+type "javac MyFirstJava.java", which will then create a "MyFirstJava.class" file
+Then, type "java MyFirstJava", which should result in the terminal printing "Hello World".
